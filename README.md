@@ -97,6 +97,6 @@ De mon expérience, MEXC se démarque par sa grande diversité de cryptomonnaies
 
 ---
 
-## 🚀 Commencer avec MEXC Global
+## 🚀 Commencer avec MEXC Global avec le [code de parrainage](https://github.com/MexcG/mexc-code-parrainage MEXC)
 
 Prêt à commencer votre aventure sur MEXC Global ? [Inscrivez-vous maintenant](https://www.mexc.com/fr-FR/acquisition/custom-sign-up?shareCode=mexc-easymexc) et découvrez par vous-même pourquoi tant de traders choisissent cette plateforme !
